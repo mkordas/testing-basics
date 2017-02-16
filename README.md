@@ -51,6 +51,16 @@ Explain that anyone who wrote down a number other than 5 created a bug. Ask if t
 http://www.softwaretestinghelp.com/goals-of-a-software-tester/
 https://www.linkedin.com/pulse/top-7-major-goals-software-tester-you-made-chosen-one-rohit-negi
 
+## 7 Testing Principles
+
+* Testing shows the presence of defects, not the absence
+* Exhaustive testing is impossible
+* Early Testing
+* Defect Clustering and Pareto Principle
+* Pesticide Paradox
+* Testing is context dependent
+* Absence of error fallacy
+
 ## Energizers
 
 * ![](http://softwaretestingfundamentals.com/wp-content/uploads/2010/12/google_defects.jpg)
