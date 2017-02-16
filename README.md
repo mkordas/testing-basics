@@ -61,6 +61,11 @@ https://www.linkedin.com/pulse/top-7-major-goals-software-tester-you-made-chosen
 * Testing is context dependent
 * Absence of error fallacy
 
+## Non-functional tests
+
+* https://en.wikipedia.org/wiki/FURPS
+* CUPRIMDSO (Capability, Usability, Performance, Reliability, Installability, Maintainability, Documentation, Servicability and Overall) Satisfaction levels.
+
 ## Energizers
 
 * ![](http://softwaretestingfundamentals.com/wp-content/uploads/2010/12/google_defects.jpg)
