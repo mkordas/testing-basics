@@ -66,6 +66,33 @@ https://www.linkedin.com/pulse/top-7-major-goals-software-tester-you-made-chosen
 * https://en.wikipedia.org/wiki/FURPS
 * CUPRIMDSO (Capability, Usability, Performance, Reliability, Installability, Maintainability, Documentation, Servicability and Overall) Satisfaction levels.
 
+Types:
+Accessibility Testing
+Baseline testing
+Compatibility testing
+Compliance testing
+Documentation testing
+Efficiency testing
+Endurance testing
+Internationalization testing
+Load testing
+Localization testing
+Maintainability testing
+Penetration Testing
+Performance testing
+Portability testing
+Recovery testing
+Reliability testing
+Resilience testing
+Scalability testing
+Security testing
+Soak Testing
+Stress testing
+Usability testing
+Volume testing
+Vulnerability Testing
+
+
 ## Energizers
 
 * ![](http://softwaretestingfundamentals.com/wp-content/uploads/2010/12/google_defects.jpg)
@@ -76,4 +103,5 @@ https://www.linkedin.com/pulse/top-7-major-goals-software-tester-you-made-chosen
  * Add button
  * Result Text Box [=A+B]
  Identify all the test cases for the program. [Example: press the Add button without entering anything in Input Box A and B]
+
 
